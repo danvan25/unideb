@@ -1,0 +1,1 @@
+Én egy ping-pong szerű játékot készítettem. A baoldali lapot a w és az s gombbal lehet fel és le irányítani. A jobboldali irányítása a kurzor gomb fel és le.
